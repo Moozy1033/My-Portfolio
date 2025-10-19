@@ -192,7 +192,7 @@ export default function PortfolioPage() {
                     <div className="grid md:grid-cols-3 gap-8 items-start">
                         <div className="md:col-span-1">
                             <h3 className="text-2xl font-semibold">About Me</h3>
-                            <p className="mt-4 text-sm text-slate-600 dark:text-slate-300">I'm Muraina Ayodeji, a passionate frontend developer focused on creating visually appealing, user-friendly, and responsive applications using modern technologies like Next.js, React, and Tailwind CSS.</p>
+                            <p className="mt-4 text-sm text-slate-600 dark:text-slate-300">I&apos;m Muraina Ayodeji, a passionate frontend developer focused on creating visually appealing, user-friendly, and responsive applications using modern technologies like Next.js, React, and Tailwind CSS.</p>
                         </div>
                         <div className="md:col-span-2">
                             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -219,7 +219,7 @@ export default function PortfolioPage() {
 
                 <section id="contact" className="py-12">
                     <div className="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow">
-                        <h3 className="text-xl font-semibold">Let’s Connect</h3>
+                        <h3 className="text-xl font-semibold">Let&apos;s Connect</h3>
                         <p className="mt-2 text-sm text-slate-500">Have a project idea or need a frontend developer? Send a message and I’ll get back to you soon.</p>
 
                         <ToastContainer position='top-right' autoClose={3000} />
